@@ -1,2 +1,3 @@
 # Pong-Game-Final
-Pong Game recreated using JavaScript, TypeScript and Observables
+Pong Game recreated using JavaScript, TypeScript and Observables. Implemented with Functional Programming techniques.
+
